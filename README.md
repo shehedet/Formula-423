@@ -1,6 +1,6 @@
 # 🏎️ FORMULA 423 🚴‍♂️
 
-Welcome to our thrilling 2D racing game, built with Python and OpenGL by 3 undergrad friends as their course project! Race around an elliptical track, choosing between a nimble bike or a sturdy car, as you dodge obstacles, collect power-ups, and navigate the chaotic effects of banana pills that reverse your controls. With smooth physics, a dynamic HUD, and immersive first- or third-person views, this game challenges your reflexes and strategic skills to complete laps before time runs out. Ready to burn some virtual rubber? Dive in and take it for a spin!
+Welcome to our thrilling 3D racing game, built with Python and OpenGL by 3 undergrad friends as their course project! Race around an elliptical track, choosing between a nimble bike or a sturdy car, as you dodge obstacles, collect power-ups, and navigate the chaotic effects of banana pills that reverse your controls. With smooth physics, a dynamic HUD, and immersive first- or third-person views, this game challenges your reflexes and strategic skills to complete laps before time runs out. Ready to burn some virtual rubber? Dive in and take it for a spin!
 
 ## 🎮 Game Overview
 

@@ -1,6 +1,6 @@
 # 🏎️ FORMULA 423 🚴‍♂️
 
-Welcome to our thrilling 2D racing game, built with Python and OpenGL! Race around an elliptical track, choosing between a nimble bike or a sturdy car, as you dodge obstacles, collect power-ups, and navigate the chaotic effects of banana pills that reverse your controls. With smooth physics, a dynamic HUD, and immersive first- or third-person views, this game challenges your reflexes and strategic skills to complete laps before time runs out. Ready to burn some virtual rubber? Dive in and take it for a spin!
+Welcome to our thrilling 2D racing game, built with Python and OpenGL by 3 undergrad friends as their course project! Race around an elliptical track, choosing between a nimble bike or a sturdy car, as you dodge obstacles, collect power-ups, and navigate the chaotic effects of banana pills that reverse your controls. With smooth physics, a dynamic HUD, and immersive first- or third-person views, this game challenges your reflexes and strategic skills to complete laps before time runs out. Ready to burn some virtual rubber? Dive in and take it for a spin!
 
 ## 🎮 Game Overview
 
@@ -54,10 +54,11 @@ Power-ups and banana pills add excitement and challenge to the gameplay:
   - **Strategy**: Prepare for sudden control changes; use strategically to disrupt opponents in multiplayer (if implemented).
 
 ## 💻 How To Play:
-- Install python (if its not already downloaded)
-- Download the code file 'Formula-423.py' from this GitHub repository
-- Open terminal and change the directory of terminal to the directory where the .py file is in (if 'Formula-423.py' is in downloads folder, type "cd c:\users\user\downloads" in the terminal.
-- Finally run the python file (or type "python Formula-423.py" in terminal)
+- Install python (if its not already installed).
+- Download the code file 'Formula-423.py' from this GitHub repository.
+- Open terminal and change the directory of terminal to the directory where the .py file is in (if 'Formula-423.py' is in downloads folder, type "cd c:\users\user\downloads" in the terminal and press enter.
+- Then in the termina, type "pip install PyOpengl PyOpengl-accelerate" and press enter.
+- Finally run the python file (or type "python Formula-423.py" in terminal) and enjoy.
 
 ## 📧 About Us
 - [akm.shahadat.hossain@g.bracu.ac.bd](mailto:akm.shahadat.hossain@g.bracu.ac.bd)

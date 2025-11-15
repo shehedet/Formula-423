@@ -57,7 +57,7 @@ Power-ups and banana pills add excitement and challenge to the gameplay:
 - Install python (if its not already installed).
 - Download the code file 'Formula-423.py' from this GitHub repository.
 - Open terminal and change the directory of terminal to the directory where the .py file is in (if 'Formula-423.py' is in downloads folder, type "cd c:\users\user\downloads" in the terminal and press enter.
-- Then in the termina, type "pip install PyOpengl PyOpengl-accelerate" and press enter.
+- Then in the terminal, type "pip install PyOpengl PyOpengl-accelerate" and press enter.
 - Finally run the python file (or type "python Formula-423.py" in terminal) and enjoy.
 
 ## 📧 About Us

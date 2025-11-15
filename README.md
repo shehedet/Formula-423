@@ -37,17 +37,6 @@ Master the controls to dominate the track:
   - `Esc`: Exit the game.
 - **Note**: When a banana pill is active (orange circular objects), all controls reverse for 4 seconds, making 'w' move backward, 's' move forward, 'a' turn right, and 'd' turn left.
 
-## 🛠️ Skills Showcased
-
-This project demonstrates a range of technical and creative skills:
-- **Game Development**: Designed a complete 2D racing game with core mechanics like movement, collision detection, and lap tracking.
-- **Physics Simulation**: Implemented realistic vehicle dynamics, including acceleration, friction, and turning, with bike-specific leaning.
-- **Graphics Programming**: Used OpenGL for rendering the track, vehicles, obstacles, power-ups, power-downs, and banana pills in 2D.
-- **UI/UX Design**: Created an intuitive HUD to display critical game information (time, laps, speed, health, effects).
-- **Object-Oriented Programming**: Structured the game using a `GameState` class to manage state and logic efficiently.
-- **Randomized Level Design**: Developed algorithms to place obstacles and power-ups randomly while avoiding overlaps and ensuring fair placement.
-- **Event Handling**: Managed keyboard inputs for responsive controls and game state changes.
-
 ## ⚡ Power-Ups and Banana Pills
 
 Power-ups and banana pills add excitement and challenge to the gameplay:
@@ -64,24 +53,11 @@ Power-ups and banana pills add excitement and challenge to the gameplay:
   - **Appearance**: Orange circular objects on the track.
   - **Strategy**: Prepare for sudden control changes; use strategically to disrupt opponents in multiplayer (if implemented).
 
-## 🌟 Additional Features
-- **Track Design**: Elliptical track with inner and outer boundaries, defined by configurable radii (`TRACK_INNER_X_RADIUS`, `TRACK_OUTER_X_RADIUS`, etc.).
-- **Obstacle Placement**: Cones, potholes, power-ups, power-downs, and banana pills are placed randomly with collision checks to prevent overlap and ensure fair distribution.
-- **Health and Respawn**: Collisions reduce health (`HEALTH_DECREMENT`); off-track or boundary collisions trigger a respawn with a flicker effect (`RESPAWN_DELAY`).
-- **Camera Dynamics**: Adjustable camera distance and height, with smooth transitions between first- and third-person modes.
-- **Game Over Conditions**: End the game if time runs out, health reaches zero, or required laps are completed, displaying final time.
-- **Reset Functionality**: Fully resets game state, including player position, obstacles, power-ups, and banana pills, for a fresh start.
-
-## 💻 Languages and Libraries Used
-- **Languages**:
-  - **Python**: Core language for game logic, physics, and rendering.
-- **Libraries**:
-  - **PyOpenGL**: For 2D rendering of the track, vehicles, obstacles, and effects.
-  - **PyOpenGL-accelerate**: Performance optimization for OpenGL bindings.
-  - **GLUT (OpenGL Utility Toolkit)**: Handles window creation, input handling, and display callbacks.
-  - **math**: For trigonometric calculations in track design, movement, and collision detection.
-  - **random**: For randomized placement of obstacles, power-ups, power-downs, and banana pills.
-  - **time**: For timing game events, lap tracking, and effect durations.
+## 💻 How To Play:
+- Install python (if its not already downloaded)
+- Download the code file 'Formula-423.py' from this GitHub repository
+- Open terminal and change the directory of terminal to the directory where the .py file is in (if 'Formula-423.py' is in downloads folder, type "cd c:\users\user\downloads" in the terminal.
+- Finally run the python file (or type "python Formula-423.py" in terminal)
 
 ## 📧 About Us
 - [akm.shahadat.hossain@g.bracu.ac.bd](mailto:akm.shahadat.hossain@g.bracu.ac.bd)
